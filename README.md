@@ -7,7 +7,7 @@ Top-5% solution to the [PLAsTiCC Astronomical Classification](https://www.kaggle
 
 ## Summary
 
-This project works with a large data set containing the telescope data from different astronomical sources such as planets, supernovae and others. Using the time series of the objects brightness referred to as light curves and available object meta-data, we preprocess the data and build a classification pipeline with LightGBM and MLP models. Our solution represents a stacking ensemble of multiple base models for galactic and extragalactic objects. The reaches the top-2% of the corresponding Kaggle competition leaderboard.
+This project works with a large data set containing the telescope data from different astronomical sources such as planets, supernovae and others. Using the time series of the objects brightness referred to as light curves and available object meta-data, we preprocess the data and build a classification pipeline with LightGBM and MLP models. Our solution represents a stacking ensemble of multiple base models for galactic and extragalactic objects. The solution reaches the top-2% of the Kaggle competition leaderboard.
 
 
 ## Project structure
